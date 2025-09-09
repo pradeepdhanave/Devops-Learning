@@ -1,0 +1,5 @@
+[
+    { "student": 1, "name": "Kiran", "percentage": 90 },
+    { "student": 2, "name": "Rahul", "percentage": 80 },
+    { "student": 3, "name": "Vikas", "percentage": 70 }
+]
